@@ -15,7 +15,3 @@ node sample/trivial/Sample.s
 ```
 npm add 'wfilesminimal@alpha'
 ```
-
-
-
-
