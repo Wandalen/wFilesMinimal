@@ -63,8 +63,8 @@ path:
       raw: compiled
       content: prime
   npm.proto.entry:
-    - /pro/module/wFilesMinimal/proto/wtools/Tools.s
-    - /pro/module/wFilesMinimal/proto/node_modules/wfilesminimal
+    - proto/wtools/Tools.s
+    - proto/node_modules/wfilesminimal
 reflector:
   reflect.proto:
     inherit: predefined.*
